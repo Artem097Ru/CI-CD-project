@@ -1,1 +1,1 @@
-# Educational-project
+# CI-CD-project
