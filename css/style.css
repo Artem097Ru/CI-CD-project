@@ -1,0 +1,47 @@
+h1 {
+    color: red;
+    font-size: 24px;
+}
+
+body {
+    background-color: burlywood;
+}
+
+#b1,
+#b2,
+#b3,
+#b4,
+#b5,
+#b6,
+#b7,
+#b8,
+#b9 {
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border: black;
+    border-radius: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+
+#but {
+    box-sizing: border-box;
+    width: 70px;
+    height: 30px;
+    border: aqua;
+    border-radius: 10px;
+    font-family: Geneva, sans-serif;
+    font-size: 14px;
+    cursor: auto;
+}
+
+#print {
+    font-family: Geneva, sans-serif;
+    color: red;
+    font-size: 24px;
+}
+
+#main {
+    text-align: center;
+}
