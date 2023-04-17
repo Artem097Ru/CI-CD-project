@@ -1,5 +1,5 @@
 import {pow} from '../main.js';
-imporn assert from 'node:assert/strict';
+import assert from 'node:assert/strict';
 
 assert(pow(2, 2) === 4)
 assert(pow(0, 5) === 0)
