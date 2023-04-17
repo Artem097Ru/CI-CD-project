@@ -15,6 +15,7 @@ jobs:
       - name: npm install, test and build
         run: |
           npm install
+          npm run test
           npm run build
       - name: Run a one-line script
         run: echo Hello, world!
